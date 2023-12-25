@@ -15,8 +15,6 @@ Each model was evaluated on both balanced and unbalanced versions of the dataset
 **Evaluation Metrics**
 Our evaluation focused on metrics such as precision, recall, F1-score, and overall accuracy to assess the performance of each model comprehensively.
 
-<br />
-
 This project highlights the effectiveness of different machine learning models in image classification tasks and the impact of dataset balancing techniques on model performance. We hope our findings will contribute to the broader understanding of machine learning applications in image classification.
 <br />
 
