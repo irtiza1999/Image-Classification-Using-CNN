@@ -1,5 +1,4 @@
 # **Image Classification Using CNN**
-<br />
 ## **Project Overview**
 <br />
 In this project, I developed an image classification system capable of distinguishing between five different classes. Our dataset comprises 2400 images, divided into training, validation, and test sets with counts of 1720, 430, and 250, respectively. A key challenge addressed in this project is the imbalance in the dataset, for which we employed techniques like undersampling and oversampling.
