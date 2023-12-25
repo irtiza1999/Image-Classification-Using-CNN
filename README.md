@@ -24,3 +24,5 @@ This project highlights the effectiveness of different machine learning models i
 
 ## **Language used**
 * Python
+
+![alt text]([https://www.dl.dropboxusercontent.com/scl/fi/daayoxpacjtb781v2hksh/Screenshot-2023-09-13-143850.png?rlkey=yijfkxawy6bgn5gtmjyrp1qur&dl=0](https://dl.dropboxusercontent.com/scl/fi/lpxoq3gq4s6mqe3yaq7z5/Screenshot-2023-12-25-230554.png?rlkey=1a7gm8hheslaqfz1nb2sf3rsr&dl=0)https://dl.dropboxusercontent.com/scl/fi/lpxoq3gq4s6mqe3yaq7z5/Screenshot-2023-12-25-230554.png?rlkey=1a7gm8hheslaqfz1nb2sf3rsr&dl=0)
