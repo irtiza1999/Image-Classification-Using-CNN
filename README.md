@@ -11,6 +11,7 @@ In this project, we have developed an image classification system capable of dis
 * ResNet-34
 * Inception Net
 * Custom CNN Model
+<br />
 Each model was evaluated on both balanced and unbalanced versions of the dataset. We also utilized several augmentation techniques, including rotation, width and height shifts, shear transformations, and horizontal flips to enhance our training data.
 
 ## **Evaluation Metrics**
